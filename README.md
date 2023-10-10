@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @Jack-Daly-Eng025
+- 👋 Hi, I’m Jack.
+- 
 - 👀 I’m interested in Computers and Software.
-- 🌱 I’m currently learning new things. 
-- 💞️ I’m looking to collaborate on ...yet undecided.
+- 
+- 🌱 I’m currently learning new things and relearning old ones.
+- 
+- 💞️ I’m looking to showcase my work and personal projects on GitHub. 
 
 <!---
 Jack-Daly-Eng025/Jack-Daly-Eng025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
