@@ -7,7 +7,7 @@
 * 🌱 I’m currently learning new skills and relearning old ones. I'm in the process of polishing up my GitHub profile & stats!
 * 💞️ I'm always happy to meet new people and explore new projects. 
 
-![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jack-Daly-Eng025&show_icons=true&theme=great-gatsby)
+![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jack-Daly-Eng025&show_icons=true&theme=chartreuse-dark)
 
 <!---
 Jack-Daly-Eng025/Jack-Daly-Eng025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
