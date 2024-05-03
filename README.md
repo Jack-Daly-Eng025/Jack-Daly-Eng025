@@ -10,6 +10,8 @@
 
 ![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jack-Daly-Eng025&show_icons=true&theme=chartreuse-dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-Daly-Eng025&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Jack's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jack-Daly-Eng025&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
