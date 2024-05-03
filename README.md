@@ -3,7 +3,7 @@
 ## I'm enjoying learning Languages like Python, Rust and Lua. Some frameworks I enjoy using include Rocket, Seed, Yew and Tokio. 
 ## I am also learning UX, UI, Wireframing etc within Blender & Godot and multi-platform application development with Tauri. 
 
- You can check out my LinkedIn Profile at linkedin.com/in/jacqueline-daly-0914191a2
+ You can check out my LinkedIn Profile at www.linkedin.com/in/jacqueline-daly-0914191a2
 
 * 🌱 I’m currently learning new skills and relearning old ones. I'm in the process of polishing up my GitHub profile & stats!
 * 💞️ I'm always happy to meet new people and explore new projects. 
