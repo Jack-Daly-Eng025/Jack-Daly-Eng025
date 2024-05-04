@@ -12,6 +12,15 @@
 * 🤝  I'm open to collaborating on interesting projects.
 * ⚡  This profile will change and grow over the next 30 days. 04/05/2024.
 
+### Support Me
+
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/JackDalyEng025 "><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+</ul>
+
+
 <a href="https://www.github.com/Jack-Daly-Eng025 " target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Jack-Daly-Eng025 ?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
@@ -28,13 +37,6 @@ src="https://img.shields.io/github/followers/Jack-Daly-Eng025 ?logo=github&style
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-Daly-Eng025&layout=donut&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/JackDalyEng025 "><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
 
 
 
