@@ -1,10 +1,11 @@
 
+
+<body>
 <script>
 
- body {background-color: powderblue;}
+ body: {background-color: powderblue;}
  
 </script>
-<body>
 ### 👋 Hi there!
 ## I'm Jack from Ireland.  I am trying to develop my skills as a Software Developer. 
 ## I'm enjoying learning Languages like Python, Rust and Lua. Some frameworks I enjoy using include Rocket, Seed, Yew and Tokio. 
