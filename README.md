@@ -4,8 +4,7 @@
 
 # I am trying to develop my skills as a Software Developer.
 
-## I'm enjoying learning Languages like Python, Rust and Lua. Some frameworks I enjoy using include Rocket, Seed, Yew and Tokio. 
-  I am also learning UX, UI, Wireframing etc within Blender & Godot and multi-platform application development with Tauri.  
+## I'm enjoying learning Languages like Python, Rust and Lua. Some frameworks I enjoy using include Rocket, Seed, Yew and Tokio.    I am also learning UX, UI, Wireframing etc within Blender & Godot and multi-platform application development with Tauri.  
 * 🌍  I'm based in Ireland.
 * ✉️  You can contact me at
 * 🚀  I'm currently working on [30\_DAYS\_OF\_CODE](http://github.com/Jack-Daly-Eng025/30_DAYS_OF_CODE)
