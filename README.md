@@ -33,6 +33,8 @@ src="https://img.shields.io/github/followers/Jack-Daly-Eng025 ?logo=github&style
 
 <b>My GitHub Stats</b>
 
+<a href="http://www.github.com/Jack-Daly-Eng025 "><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jack-Daly-Eng025 &stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 ![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jack-Daly-Eng025&show_icons=true&theme=chartreuse-dark)
 
 
