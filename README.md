@@ -1,7 +1,10 @@
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jack
-============================================================================================================================I am trying to develop my skills as a Software Developer.---------------------------------------------------------I'm enjoying learning Languages like Python, Rust and Lua. Some frameworks I enjoy using include Rocket, Seed, Yew and Tokio. I am also learning UX, UI, Wireframing etc within Blender & Godot and multi-platform application development with Tauri. Keep a eye on my page for any new repositories or projects.* 🌍  I'm based in Ireland.* ✉️  You can contact me at [www.linkedin.com/in/jacqueline-daly-0914191a2](mailto:www.linkedin.com/in/jacqueline-daly-0914191a2)* 🚀  I'm currently working on [30\_DAYS\_OF\_CODE](http://github.com/Jack-Daly-Eng025/30_DAYS_OF_CODE)* 🧠  I'm learning Rocket, Seed, Yew and Tokio.* 🤝  I'm open to collaborating on interesting projects.* ⚡  This profile will change and grow over the next 30 days. 04/05/2024.
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jack
+
+# I am trying to develop my skills as a Software Developer.
+
+## I'm enjoying learning Languages like Python, Rust and Lua. Some frameworks I enjoy using include Rocket, Seed, Yew and Tokio. I am also learning UX, UI, Wireframing etc within Blender & Godot and multi-platform application development with Tauri. Keep a eye on my page for any new repositories or projects.* 🌍  I'm based in Ireland.* ✉️  You can contact me at [www.linkedin.com/in/jacqueline-daly-0914191a2](mailto:www.linkedin.com/in/jacqueline-daly-0914191a2)* 🚀  I'm currently working on [30\_DAYS\_OF\_CODE](http://github.com/Jack-Daly-Eng025/30_DAYS_OF_CODE)* 🧠  I'm learning Rocket, Seed, Yew and Tokio.* 🤝  I'm open to collaborating on interesting projects.* ⚡  This profile will change and grow over the next 30 days. 04/05/2024.
 
 <a href="https://www.github.com/Jack-Daly-Eng025 " target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Jack-Daly-Eng025 ?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
