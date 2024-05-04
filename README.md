@@ -1,3 +1,10 @@
+
+<script>
+
+ body {background-color: powderblue;}
+ 
+</script>
+<body>
 ### 👋 Hi there!
 ## I'm Jack from Ireland.  I am trying to develop my skills as a Software Developer. 
 ## I'm enjoying learning Languages like Python, Rust and Lua. Some frameworks I enjoy using include Rocket, Seed, Yew and Tokio. 
@@ -24,9 +31,13 @@
   <div class="grid-item">8</div>
   <div class="grid-item">9</div>
 </div> 
-<div>
+
+
 [![Jack's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jack-Daly-Eng025&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
+
+
+</body>
+
 <!---
 Jack-Daly-Eng025/Jack-Daly-Eng025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
