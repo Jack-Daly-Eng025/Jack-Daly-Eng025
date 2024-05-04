@@ -13,9 +13,20 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-Daly-Eng025&layout=donut&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<div class="grid-container">
+  <div class="grid-item">1</div>
+  <div class="grid-item">2</div>
+  <div class="grid-item">3</div>
+  <div class="grid-item">4</div>
+  <div class="grid-item">5</div>
+  <div class="grid-item">6</div>
+  <div class="grid-item">7</div>
+  <div class="grid-item">8</div>
+  <div class="grid-item">9</div>
+</div> 
+<div>
 [![Jack's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jack-Daly-Eng025&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+</div>
 <!---
 Jack-Daly-Eng025/Jack-Daly-Eng025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
