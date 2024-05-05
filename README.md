@@ -3,7 +3,7 @@
 # Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 # My name is Jack. I am trying to develop my skills as a Software Developer.
 
-## I'm enjoying learning Languages like Python, Rust and Lua. Some frameworks I enjoy using include Rocket, Seed, Yew and Tokio.    I am also learning UX, UI, Wireframing etc within Blender & Godot and multi-platform application development with Tauri.  
+## I'm enjoying learning languages like Python, Rust and Lua. Some frameworks I enjoy using include Rocket, Seed, Yew and Tokio.  I am also learning UX, UI, Wireframing etc within Blender & Godot and multi-platform application development with Tauri.  
 * 🌍  I'm based in Ireland.
 * 🚀  I'm currently working on [30\_DAYS\_OF\_CODE](http://github.com/Jack-Daly-Eng025/30_DAYS_OF_CODE)
 * 🧠  I'm learning Rocket, Seed, Yew and Tokio for development with Rust. I am learning Flask and other frameworks for development with Python. 
