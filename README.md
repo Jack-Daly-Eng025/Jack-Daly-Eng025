@@ -8,7 +8,8 @@
 * 🚀  I'm currently working on [30\_DAYS\_OF\_CODE](http://github.com/Jack-Daly-Eng025/30_DAYS_OF_CODE)
 * 🧠  I'm learning Rocket, Seed, Yew and Tokio for development with Rust. I am learning Flask and other frameworks for development with Python. 
 * 🤝  I'm open to collaborating on interesting projects and actively seeking my next job role. 
-* ⚡  This profile will change and grow over the next 30 days. The end goal is to have developed enough skills to get my first developer job. 04/05/2024.
+* ⚡  This profile will change and grow over the next 30 days.
+* The end goal is to have developed enough skills to get my first developer job. 04/05/2024.
 
 ## Keep a eye on my page for any new repositories or projects.
 ### Support Me
