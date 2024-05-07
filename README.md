@@ -4,6 +4,11 @@
 # My name is Jack. I am trying to develop my skills as a Software Developer.
 
 ## I'm enjoying learning languages like Python, Rust and Lua. Some frameworks I enjoy using include Rocket, Seed, Yew and Tokio.  I am also learning UX, UI, Wireframing etc within Blender & Godot and multi-platform application development with Tauri.  
+
+![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
 * 🌍  I'm based in Ireland.
 * 🚀  I'm currently working on [30\_DAYS\_OF\_CODE](http://github.com/Jack-Daly-Eng025/30_DAYS_OF_CODE)
 * 🧠  I'm learning Rocket, Seed, Yew and Tokio for development with Rust. I am learning Flask and other frameworks for development with Python. 
