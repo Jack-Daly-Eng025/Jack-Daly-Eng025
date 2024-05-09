@@ -14,7 +14,7 @@
 * The end goal is to have developed enough skills to get my first developer job. 04/05/2024.
 
 ## Keep a eye on my page for any new repositories or projects.
-### Support Me
+### Support Me. I'm doing a 30 day coding challenge and could use the coffee!
 
 <ul style="list-style-type: none; margin: 0;">
 
