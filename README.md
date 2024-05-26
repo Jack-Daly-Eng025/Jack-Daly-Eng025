@@ -57,7 +57,7 @@
 ### <b>My GitHub Stats</b>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jack-Daly-Eng025&show_icons=true&theme=chartreuse-dark&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-Daly-Eng025&layout=donut-vertical&theme=chartreuse-darkk&repo=https://github.com/anuraghazra/github-readme-stats />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
