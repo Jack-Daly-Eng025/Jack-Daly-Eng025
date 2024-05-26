@@ -27,10 +27,6 @@
 <a href="https://www.github.com/Jack-Daly-Eng025 " target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/Jack-Daly-Eng025 ?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-
-
-
-
 ### <b>Skills</b> 
 
 
@@ -56,13 +52,13 @@
 
 ### <b>My GitHub Stats</b>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jack-Daly-Eng025&theme=chartreuse-dark)](https://git.io/streak-stats)
-<div></div>
+
 [![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jack-Daly-Eng025&show_icons=true&theme=chartreuse-dark)
-<div></div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-Daly-Eng025&layout=donut-vertical&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-<div></div>
+
 [![Jack's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jack-Daly-Eng025&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<div></div>
+
 
 
 <!---
