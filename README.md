@@ -7,23 +7,25 @@
 ## I'm enjoying learning languages such as Python, Rust and GDScript. 
 <p>Some frameworks I enjoy using include Rocket, Seed, Yew and Tokio. I am also learning UX, UI, Wireframing etc within Blender & Godot and multi-platform application development with Tauri.</p>  
 
-* 🌍  I'm based in Ireland.
-* 🚀  I'm currently working on [30\_DAYS\_OF\_CODE](http://github.com/Jack-Daly-Eng025/30_DAYS_OF_CODE)
+* 🌍  I'm based in Ireland. I'm recently completed working on [30\_DAYS\_OF\_CODE](http://github.com/Jack-Daly-Eng025/30_DAYS_OF_CODE)
+* 🚀  I am currently working on 60 Days of Code [TBD]. 
 * 🧠  I'm learning Game Development with Godot and GDScript.  I am learning Python, Rust and their respective frameworks to have well rounded skills as a software developer.  
-* 🤝  I'm open to collaborating on interesting projects and actively seeking my next job role. 
-* ⚡  This profile will change and grow over the next 30 days.
+* 🤝  I'm actively seeking my next job role and open to collaborating on Open Source. 
+* ⚡  This profile will continue to change and grow over the next 30 days.
+
+
 * The end goal is to have developed enough skills to get my first developer job. 04/05/2024.
+* 04/05/2024 - Still working towards my first developer role. 
 
 ## Keep a eye on my page for any new repositories or projects.
-### Support Me. I'm doing a 30 day coding challenge and could use the coffee!
+
+### Support Me. I'm doing a 60 day coding challenge and could use the coffee!
 
 <ul style="list-style-type: none; margin: 0;">
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/JackDalyEng025 "><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
-
-
 
 <a href="https://www.github.com/Jack-Daly-Eng025 " target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/Jack-Daly-Eng025 ?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
