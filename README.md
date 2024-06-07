@@ -7,7 +7,7 @@
 <a href="https://app.daily.dev/jackdalydev025"><img src="https://api.daily.dev/devcards/v2/FRq9Y6VzTbRrDFff6E59O.png?type=wide&r=tcz" width="652" alt="Jacqueline Daly's Dev Card"/></a>
 
 ## I'm enjoying learning languages such as Python, Rust and GDScript. 
-<p>Some frameworks I enjoy using include Rocket, Seed, Yew and Tokio. I am also learning UX, UI, Wireframing etc within Blender & Godot and multi-platform application development with Tauri.</p>  
+<p>Some frameworks I enjoy using include Rocket, Seed, Yew and Tokio. I am also learning UX, UI, Wireframing etc within Blender & Godot and multi-platform application development with Tauri. Right now my main focus is on Game Development and making games with Godot 4.0</p>  
 
 * 🌍  I'm based in Ireland. I recently completed working on [30\_DAYS\_OF\_CODE](http://github.com/Jack-Daly-Eng025/30_DAYS_OF_CODE)
 * 🚀  I am currently working on 60 Days of Code [TBD]. 
