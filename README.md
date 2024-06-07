@@ -4,6 +4,8 @@
 
 # I am trying to develop my skills as a Software Developer.
 
+<a href="https://app.daily.dev/jackdalydev025"><img src="https://api.daily.dev/devcards/v2/FRq9Y6VzTbRrDFff6E59O.png?type=wide&r=s0b" width="652" alt="Jacqueline Daly's Dev Card"/></a>
+
 ## I'm enjoying learning languages such as Python, Rust and GDScript. 
 <p>Some frameworks I enjoy using include Rocket, Seed, Yew and Tokio. I am also learning UX, UI, Wireframing etc within Blender & Godot and multi-platform application development with Tauri.</p>  
 
