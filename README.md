@@ -51,7 +51,7 @@
 
 ### <b>My GitHub Stats</b>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jack-Daly-Eng025&theme=chartreuse-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jack-Daly-Eng025&theme=monokai)](https://git.io/streak-stats)
 
 
 [![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jack-Daly-Eng025&show_icons=true&theme=chartreuse-dark)
