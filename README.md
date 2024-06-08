@@ -17,7 +17,7 @@
 
 
 * The end goal is to have developed enough skills to get my first developer job. 04/05/2024.
-* 04/05/2024 - Still working towards my first developer role. 
+* 04/05/2024 - Still working towards my first developer role and currently developing my first game. 
 
 ## Keep a eye on my page for any new repositories or projects.
 
