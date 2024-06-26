@@ -9,7 +9,7 @@
 ## I'm enjoying learning languages such as Python, Rust and GDScript. 
 <p>Some frameworks I enjoy using include Rocket, Seed, Yew and Tokio. I am also learning UX, UI, Wireframing etc within Blender & Godot and multi-platform application development with Tauri. Right now my main focus is on Game Development and making games with Godot 4.0</p>  
 
-* 🌍  I'm based in Ireland. I recently completed working on [30\_DAYS\_OF\_CODE](http://github.com/Jack-Daly-Eng025/30_DAYS_OF_CODE)
+* 🌍  I'm based in Ireland. I recently completed working on the Rustlings interactive exercises in their course for Rust! 
 * 🚀  I am currently working on 60 Days of Code [TBD]. 
 * 🧠  I'm learning Game Development with Godot and GDScript.  I am learning Python, Rust and their respective frameworks to have well rounded skills as a software developer.  
 * 🤝  I'm actively seeking my next job role and open to collaborating on Open Source. 
