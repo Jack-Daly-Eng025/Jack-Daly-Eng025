@@ -12,7 +12,7 @@
 * 🌍  I'm based in Ireland. I recently completed working on the Rustlings interactive exercises in their course for Rust! 
 * 🚀  I am currently working on 60 Days of Code [TBD]. 
 * 🧠  I'm learning Game Development with Godot and GDScript.  I am learning Python, Rust and their respective frameworks to have well rounded skills as a software developer.  
-* 🤝  I'm actively seeking my next job role and open to collaborating on Open Source. 
+* 🤝  I'm currently working on problems in LeetCode to sharpen my skills. 
 * ⚡  This profile will continue to change and grow over the next 30 days.
 
 
