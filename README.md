@@ -11,17 +11,16 @@
 
 * 🌍  I'm based in Ireland. I recently completed working on the Rustlings interactive exercises in their course for Rust! 
 * 🚀  I am currently working on 90 Days of Code [TBD]. 
-* 🧠  I'm learning Game Development with Godot and GDScript.  I am learning Python, Rust and their respective frameworks to have well rounded skills as a software developer.  
+* 🧠  I'm learning Game Development with Godot and GDScript.  I am learning developing with Python,  Rust and their respective frameworks to have well rounded skills as a software developer.  
 * 🤝  I'm currently working on problems in LeetCode to sharpen my skills. 
-* ⚡  This profile will continue to change and grow over the next 30 days.
-
+* ⚡  This profile will continue to change and grow over the next 90 days.
 
 * The end goal is to have developed enough skills to get my first developer job. 04/05/2024.
-* 04/05/2024 - Still working towards my first developer role and currently developing my first game. 
+* 09/07/2024 - Still working towards my first developer role and currently developing my first game. 
 
 ## Keep a eye on my page for any new repositories or projects.
 
-### Support Me. I'm doing a 60 day coding challenge and could use the coffee!
+### Support Me. I'm could use the coffee!
 
 
 <a href="https://www.buymeacoffee.com/JackDalyEng025"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=JackDalyEng025&button_colour=FF5F5F&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
