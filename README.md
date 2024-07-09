@@ -7,10 +7,10 @@
 <a href="https://app.daily.dev/jackdalydev025"><img src="https://api.daily.dev/devcards/v2/FRq9Y6VzTbRrDFff6E59O.png?type=wide&r=tcz" width="652" alt="Jacqueline Daly's Dev Card"/></a>
 
 ## I'm enjoying learning languages such as Python, Rust and GDScript. 
-<p>Some frameworks I enjoy using include Rocket, Seed, Yew and Tokio. I am also learning UX, UI, Wireframing etc within Blender & Godot and multi-platform application development with Tauri. Right now my main focus is on Game Development and making games with Godot 4.0</p>  
+<p>Some frameworks I enjoy learning include Rocket, Sycamore, Yew and Tokio. I am also learning UX, UI, Wireframing etc within Blender & Godot and multi-platform application development with Tauri. Right I'm focused on building my portfolio and  making my own games with Godot 4.0</p>  
 
 * 🌍  I'm based in Ireland. I recently completed working on the Rustlings interactive exercises in their course for Rust! 
-* 🚀  I am currently working on 60 Days of Code [TBD]. 
+* 🚀  I am currently working on 90 Days of Code [TBD]. 
 * 🧠  I'm learning Game Development with Godot and GDScript.  I am learning Python, Rust and their respective frameworks to have well rounded skills as a software developer.  
 * 🤝  I'm currently working on problems in LeetCode to sharpen my skills. 
 * ⚡  This profile will continue to change and grow over the next 30 days.
