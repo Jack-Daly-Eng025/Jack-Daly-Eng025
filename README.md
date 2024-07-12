@@ -20,7 +20,7 @@
 
 ## Keep a eye on my page for any new repositories or projects.
 
-### Support Me. I'm could use the coffee!
+### Please Support Me. I'm could use the coffee!
 
 
 <a href="https://www.buymeacoffee.com/JackDalyEng025"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=JackDalyEng025&button_colour=FF5F5F&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
