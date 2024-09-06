@@ -64,10 +64,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-Daly-Eng025&layout=donut-vertical&theme=ocean-gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Jack's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jack-Daly-Eng025&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
 <!---
 Jack-Daly-Eng025/Jack-Daly-Eng025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
