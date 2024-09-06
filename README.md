@@ -2,7 +2,7 @@
 
 # Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  My name is Jack. 
 
-# I am learning software development and seeking new oppurtunities. 
+# I am seeking new oppurtunities. 
 
 <a href="https://app.daily.dev/jackdalydev025"><img src="https://api.daily.dev/devcards/v2/FRq9Y6VzTbRrDFff6E59O.png?type=wide&r=tcz" width="652" alt="Jacqueline Daly's Dev Card"/></a>
 
