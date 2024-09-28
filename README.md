@@ -23,7 +23,7 @@ I'm a Master's student with a passion for **software development**, **game desig
 - 🎯 Dedicated to building a portfolio that showcases my **creative technology** skills and my ability to integrate design and development in interactive experiences.
 
 ## Ongoing Goals
-- My goal is to secure a developer role where I can combine my technical skills with my passion for **creative technology**. Whether it's game development or multi-platform app development, I’m driven by a desire to create immersive, engaging user experiences.
+- My goal is to secure a engineer or developer role where I can combine my technical skills with my passion for **creative technology**. Whether it's game development or multi-platform app development, I’m driven by a desire to create immersive, engaging user experiences with technology.
 - As a **Master's student**, I am continuously working on innovative projects, and this profile will evolve as I develop new games and explore creative solutions in technology.
 
 Feel free to explore my repositories and stay tuned for updates on exciting new projects! ✨
