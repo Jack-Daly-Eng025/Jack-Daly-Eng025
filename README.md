@@ -2,26 +2,33 @@
 
 # Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  My name is Jack. 
 
-# I am seeking new oppurtunities. 
-
 <a href="https://app.daily.dev/jackdalydev025"><img src="https://api.daily.dev/devcards/v2/FRq9Y6VzTbRrDFff6E59O.png?type=wide&r=tcz" width="652" alt="Jacqueline Daly's Dev Card"/></a>
 
-## I'm enjoying learning languages such as Python, Rust and GDScript. 
-<p>Some frameworks I enjoy learning include Rocket, Sycamore, Yew and Tokio. I am also learning UX, UI, Wireframing etc within Blender & Godot and multi-platform application development with Tauri. Right I'm focused on building my portfolio and  making my own games with Godot 4.0</p>  
+I'm a Master's student with a passion for **software development**, **game design**, and **creative technology**. I'm actively seeking opportunities to bring my skills and creativity into professional settings, with a focus on developing innovative solutions and engaging interactive experiences.
 
-* 🌍  I'm based in Ireland. I recently completed working on the Rustlings interactive exercises in their course for Rust! 
-* 🚀  I am currently working on 90 Days of Code [TBD]. 
-* 🧠  I'm learning Game Development with Godot and GDScript.  I am learning developing with Python,  Rust and their respective frameworks to have well rounded skills as a software developer.  
-* 🤝  I'm currently working on problems in LeetCode to sharpen my skills. 
-* ⚡  This profile will continue to change and grow over the next 90 days.
+## About Me
+- 🌍 Based in Ireland, I'm committed to expanding my expertise in both **software development** and **creative technologies** through hands-on projects and continuous learning.
+- 🧠 My technical skills span **Python**, **Rust**, and **GDScript**, and I'm always exploring new frameworks to enhance my capabilities.
+- 🎮 Currently, I’m channeling my passion for creativity into **small gaming projects**, utilizing **Godot 4.0** and developing my design skills with **Blender** for UX/UI, wireframing, and 3D modeling.
 
-* The end goal is to have developed enough skills to get my first developer job. 04/05/2024.
-* 09/07/2024 - Still working towards my first developer role and currently developing my first game. 
+## Skills & Technologies
+- **Programming Languages:** Python, Rust, GDScript
+- **Frameworks & Libraries:** Rocket, Sycamore, Yew, Tokio
+- **Creative Tools & Platforms:** Godot, Blender, Tauri (for multi-platform app development)
+- **Problem Solving:** Actively sharpening my algorithmic thinking with **LeetCode** challenges to refine my software engineering skills.
 
-## Keep a eye on my page for any new repositories or projects.
+## Recent Projects & Learning
+- 🚀 Currently focused on a personal challenge: developing **small gaming projects** to enhance my technical and creative problem-solving abilities.
+- 🧩 Completed the **Rustlings interactive exercises**, which deepened my understanding of the Rust programming language and its ecosystem.
+- 🎯 Dedicated to building a portfolio that showcases my **creative technology** skills and my ability to integrate design and development in interactive experiences.
 
-### Please Support Me. I'm could use the coffee!
+## Ongoing Goals
+- My goal is to secure a developer role where I can combine my technical skills with my passion for **creative technology**. Whether it's game development or multi-platform app development, I’m driven by a desire to create immersive, engaging user experiences.
+- As a **Master's student**, I am continuously working on innovative projects, and this profile will evolve as I develop new games and explore creative solutions in technology.
 
+Feel free to explore my repositories and stay tuned for updates on exciting new projects! ✨
+
+## Show your support here through GitHub Sponsors, or through BuyMeACoffee!
 <a href="https://www.buymeacoffee.com/byte_sized"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book!&emoji=📚️&slug=byte_sized&button_colour=1c71d8&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
 
 ### <b>Skills</b> 
