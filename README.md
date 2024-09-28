@@ -22,8 +22,7 @@
 
 ### Please Support Me. I'm could use the coffee!
 
-
-<a href="https://www.buymeacoffee.com/JackDalyEng025"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=JackDalyEng025&button_colour=FF5F5F&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<a href="https://www.buymeacoffee.com/byte_sized"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book!&emoji=📚️&slug=byte_sized&button_colour=1c71d8&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
 
 ### <b>Skills</b> 
 ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
