@@ -33,10 +33,4 @@
 
 
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Jack-Daly-Eng025/Jack-Daly-Eng025/output/snake.svg" alt="Snake animation" />
-
-###
