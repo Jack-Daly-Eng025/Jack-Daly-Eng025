@@ -1,5 +1,5 @@
 # Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  My name is Jack. 
-<h2 align="left"> I'm a developer, from Ireland</h2>
+<h2 align="left"> I'm a student, from Ireland</h2>
 
 ###
 
