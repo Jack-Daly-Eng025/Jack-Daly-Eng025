@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Jack! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for coding and learning new technologies.
+Welcome to my GitHub profile! I'm a Master's Student with a love for coding and learning new technologies.
 
 ## 📊 GitHub Stats
 
